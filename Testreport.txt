@@ -1,0 +1,73 @@
+Test suite: Sophisticated Suit Testing for Caesar 2022-05-05 15:48
+2022-05-05 15:48:35 Test: name Status: PASS
+2022-05-05 15:48:35 Test: whatsForDinner Status: PASS
+2022-05-05 15:48:35 Test: decrypt Status: PASS
+2022-05-05 15:48:35 Test: encrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:48:35 Test: encryptAndDecrypt Status: PASS
+
+Test suite: Sophisticated Suit Testing for Caesar 2022-05-05 15:48
+2022-05-05 15:48:54 Test: name Status: FAIL
+2022-05-05 15:48:54 Test: whatsForDinner Status: PASS
+2022-05-05 15:48:54 Test: decrypt Status: PASS
+2022-05-05 15:48:54 Test: encrypt Status: PASS
+2022-05-05 15:48:54 Test: encryptAndDecrypt Status: SKIPPED
+
+Test suite: Sophisticated Suit Testing for Caesar 2022-05-05 15:49
+2022-05-05 15:49:12 Test: name Status: PASS
+2022-05-05 15:49:12 Test: whatsForDinner Status: PASS
+2022-05-05 15:49:12 Test: decrypt Status: PASS
+2022-05-05 15:49:12 Test: encrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+2022-05-05 15:49:12 Test: encryptAndDecrypt Status: PASS
+

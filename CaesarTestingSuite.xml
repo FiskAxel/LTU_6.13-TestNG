@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sophisticated Suit Testing for Caesar">
+
+    <listeners>
+        <listener class-name="ListeningToCaesar"></listener>
+    </listeners>
+
+    <test name="Rigorous testing test">
+        <groups>
+            <run>
+                <include name="personal"></include>
+                <include name="cipher"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="TestingCaesar"></class>
+        </classes>
+    </test>
+</suite>
